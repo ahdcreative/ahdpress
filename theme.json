@@ -1,0 +1,182 @@
+{
+  "version": 2,
+  "settings": {
+    "layout": {
+      "contentSize": "960px",
+      "wideSize": "1280px"
+    },
+    "color": {
+      "palette": [
+        {
+          "name": "Primary",
+          "slug": "primary",
+          "color": "#0EA5E9"
+        },
+        {
+          "name": "Secondary",
+          "slug": "secondary",
+          "color": "#14B8A6"
+        },
+        {
+          "name": "Dark",
+          "slug": "dark",
+          "color": "#1F2937"
+        },
+        {
+          "name": "Light",
+          "slug": "light",
+          "color": "#F9FAFB"
+        },
+        {
+          "name": "Hibiscus 50",
+          "slug": "hibiscus-50",
+          "color": "#fcf3f8"
+        },
+        {
+          "name": "Hibiscus 100",
+          "slug": "hibiscus-100",
+          "color": "#fbe8f3"
+        },
+        {
+          "name": "Hibiscus 200",
+          "slug": "hibiscus-200",
+          "color": "#f8d2e7"
+        },
+        {
+          "name": "Hibiscus 300",
+          "slug": "hibiscus-300",
+          "color": "#f4add3"
+        },
+        {
+          "name": "Hibiscus 400",
+          "slug": "hibiscus-400",
+          "color": "#ed79b4"
+        },
+        {
+          "name": "Hibiscus 500",
+          "slug": "hibiscus-500",
+          "color": "#e35197"
+        },
+        {
+          "name": "Hibiscus 600",
+          "slug": "hibiscus-600",
+          "color": "#cc2e72"
+        },
+        {
+          "name": "Hibiscus 700",
+          "slug": "hibiscus-700",
+          "color": "#b4225d"
+        },
+        {
+          "name": "Hibiscus 800",
+          "slug": "hibiscus-800",
+          "color": "#951f4c"
+        },
+        {
+          "name": "Hibiscus 900",
+          "slug": "hibiscus-900",
+          "color": "#7d1e43"
+        },
+        {
+          "name": "Hibiscus 950",
+          "slug": "hibiscus-950",
+          "color": "#4c0b24"
+        },
+        {
+          "name": "Malachite 50",
+          "slug": "malachite-50",
+          "color": "#eefde8"
+        },
+        {
+          "name": "Malachite 100",
+          "slug": "malachite-100",
+          "color": "#d9fbcc"
+        },
+        {
+          "name": "Malachite 200",
+          "slug": "malachite-200",
+          "color": "#b4f79f"
+        },
+        {
+          "name": "Malachite 300",
+          "slug": "malachite-300",
+          "color": "#86ee68"
+        },
+        {
+          "name": "Malachite 400",
+          "slug": "malachite-400",
+          "color": "#4fdf28"
+        },
+        {
+          "name": "Malachite 500",
+          "slug": "malachite-500",
+          "color": "#3dc71b"
+        },
+        {
+          "name": "Malachite 600",
+          "slug": "malachite-600",
+          "color": "#2a9f11"
+        },
+        {
+          "name": "Malachite 700",
+          "slug": "malachite-700",
+          "color": "#237912"
+        },
+        {
+          "name": "Malachite 800",
+          "slug": "malachite-800",
+          "color": "#206014"
+        },
+        {
+          "name": "Malachite 900",
+          "slug": "malachite-900",
+          "color": "#1e5116"
+        },
+        {
+          "name": "Malachite 950",
+          "slug": "malachite-950",
+          "color": "#0a2d06"
+        },
+        {
+          "name": "Malachite 50",
+          "slug": "malachite-50",
+          "color": "#eefde8"
+        }
+      ]
+    },
+    "typography": {
+      "fontSizes": [
+        {
+          "name": "Small",
+          "slug": "small",
+          "size": "0.875rem"
+        },
+        {
+          "name": "Regular",
+          "slug": "regular",
+          "size": "1.5rem"
+        },
+        {
+          "name": "Large",
+          "slug": "large",
+          "size": "1.125rem"
+        },
+        {
+          "slug": "xl",
+          "name": "XL",
+          "size": "1.25rem"
+        },
+        {
+          "name": "2XL",
+          "size": "1.5rem",
+          "slug": "xxl"
+        },
+        {
+          "name": "3XL",
+          "slug": "xxxl",
+          "size": "1.875rem"
+        }
+      ]
+    }
+  }
+}
