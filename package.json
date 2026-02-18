@@ -16,7 +16,7 @@
     "@ahdcreative/tailwindcss-ahdpress": "^1.0.0",
     "autoprefixer": "^10.4.17",
     "browser-sync": "^3.0.2",
-    "cross-env": "^7.0.3",
+    "cross-env": "^10.0.0",
     "laravel-mix": "^6.0.49",
     "postcss": "^8.4.35",
     "postcss-import": "^16.0.1",
